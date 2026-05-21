@@ -1,1 +1,11 @@
 .build/
+
+# AI Guardrails
+AGENTS.md
+CONTRIBUTING.md
+system_prompt.txt
+.cursorrules
+CLAUDE.md
+instructions.md
+.env
+rules.yaml
